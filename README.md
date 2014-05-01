@@ -1,4 +1,4 @@
-hcollector
+crashcollector
 --------------
 
 The crashcollector is a simple web service that shows how to collect
@@ -45,3 +45,7 @@ The symbolstore.py script helps you generate collections of symbols.
 Run it from within your build directory and it will generate the files
 in the expected directory layout.
 
+License
+-------
+
+crashcollector was a part of Sirikata (https://github.com/sirikata/sirikata) which I took the liberty to fork into a standalone project.
